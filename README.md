@@ -1,34 +1,29 @@
-![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### Hi there, I'm Sachin <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm GentleLemon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/sachinchaturvedi93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachin93)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sachinchaturvedi93/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachin93@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/flipcase93)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/sachin93)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/GentleLemon)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/霄鹏-裴-0b4245187)
+
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast!
+## 我是机器学习的爱好者!
 
-- I’m currently working on building my knowledge in the field of Data Science!
-  - Learning Computer Vision, Natural Language Processing
-  - Learning how to deploy Machine Learning/Deep Learning Models
-  - Reading papers on ML/DL/AI
-- I’m currently learning : 
-  - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
-  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- I’m looking to collaborate with other content creators
-- 2020/2021 Goals: Contribute more to Open Source projects
-- Fun fact: I have a degree in Civil Engineering! :construction_worker:
+- 我目前正在努力建立我在数据科学领域的知识！
+  - 学习计算机视觉、自然语言处理
+  - 学习如何部署机器学习/深度学习模型
+  - 阅读有关 ML/DL/AI 的论文
+- 我目前正在学习：
+  - [fast.ai](http://course.fast.ai) 的编码员深度学习
+  - DeepLearning.AI TensorFlow 开发者【专业证书】(https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+  - 使用 Scikit-Learn、Keras 和 TensorFlow 进行机器学习 [书籍](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- 我希望与其他内容创作者合作
+- 2022/2023 年目标：
+  - 一周读一本书 
+  - 连续锻炼 3 天并休息一天 
+  - 避免过度使用社交媒体 
+  - 适应极简主义生活方式
 <br />
-
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
 
 ### Languages and Tools:
 
@@ -62,5 +57,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
