@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GentleLemon)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there, I'm GentleLemon <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
